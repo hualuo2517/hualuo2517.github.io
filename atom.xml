@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-04-10T06:53:09.534Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java2</title>
+    <link href="http://example.com/2024/04/10/java2/"/>
+    <id>http://example.com/2024/04/10/java2/</id>
+    <published>2024-04-10T06:52:40.000Z</published>
+    <updated>2024-04-10T06:53:09.534Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="java"><a href="#java" class="headerlink" title="java"></a>java</h1><p>125674</p><h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;p&gt;125674&lt;/p&gt;
+&lt;h2 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java</title>
+    <link href="http://example.com/2024/04/08/java1/"/>
+    <id>http://example.com/2024/04/08/java1/</id>
+    <published>2024-04-08T00:59:35.000Z</published>
+    <updated>2024-04-10T06:50:46.522Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="java"><a href="#java" class="headerlink" title="java"></a>java</h1><h2 id="拼图"><a href="#拼图" class="headerlink" title="拼图"></a>拼图</h2><h3 id="gameJFrame"><a href="#gameJFrame" class="headerlink" title="gameJFrame"></a>gameJFrame</h3><h3 id="loginJFrame"><a href="#loginJFrame" class="headerlink" title="loginJFrame"></a>loginJFrame</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;h2 id=&quot;拼图&quot;&gt;&lt;a href=&quot;#拼图&quot; class=&quot;headerlink&quot; title=&quot;拼图&quot;&gt;&lt;/a&gt;拼图&lt;/h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
