@@ -6,7 +6,7 @@
   <link href="http://hualuo2517.github.io/atom.xml" rel="self"/>
   
   <link href="http://hualuo2517.github.io/"/>
-  <updated>2024-10-13T04:55:10.072Z</updated>
+  <updated>2024-10-13T05:05:09.688Z</updated>
   <id>http://hualuo2517.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://hualuo2517.github.io/2024/10/13/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/"/>
     <id>http://hualuo2517.github.io/2024/10/13/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</id>
     <published>2024-10-13T03:55:39.000Z</published>
-    <updated>2024-10-13T04:55:10.072Z</updated>
+    <updated>2024-10-13T05:05:09.688Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-设计对象并使用"><a href="#1-设计对象并使用" class="headerlink" title="1.设计对象并使用"></a>1.设计对象并使用</h2><h5 id="1-1类和对象是什么"><a href="#1-1类和对象是什么" class="headerlink" title="1.1类和对象是什么?"></a>1.1类和对象是什么?</h5><p>类:是共同特征的描述;</p><p>对象:是真实存在的实例;</p><h5 id="1-2如何得到对象"><a href="#1-2如何得到对象" class="headerlink" title="1.2如何得到对象?"></a>1.2如何得到对象?</h5><p>![](C:\Users\86133\Desktop\Hexo-Blog\source\images\屏幕截图 2024-10-13 105859.png)</p><h5 id="1-3拿到对象后能做什么"><a href="#1-3拿到对象后能做什么" class="headerlink" title="1.3拿到对象后能做什么?"></a>1.3拿到对象后能做什么?</h5><p>![](C:\Users\86133\Desktop\Hexo-Blog\source\images\屏幕截图 2024-10-13 105922.png)</p><blockquote><p>[!NOTE]</p><p>1.类名的首字母建议大写,英文,满足驼峰命名,不能用关键字做类名;</p><p>2.一个代码文件中可以定义多个类,但是只能一个类是public修饰的;</p><p>3.public修饰的类名必须是java代码的文件名称;</p></blockquote><h2 id="2-封装"><a href="#2-封装" class="headerlink" title="2.封装"></a>2.封装</h2><p>对象代表什么,就得封装对应的数据,并提供数据对应的行为;</p><p>封装告诉了我们如何正确设计对象的属性和方法;</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-设计对象并使用"><a href="#1-设计对象并使用" class="headerlink" title="1.设计对象并使用"></a>1.设计对象并使用</h2><h5 id="1-1类和对象是什么"><a href="#1-1类和对象是什么" class="headerlink" title="1.1类和对象是什么?"></a>1.1类和对象是什么?</h5><p>类:是共同特征的描述;</p><p>对象:是真实存在的实例;</p><h5 id="1-2如何得到对象"><a href="#1-2如何得到对象" class="headerlink" title="1.2如何得到对象?"></a>1.2如何得到对象?</h5><p>![图片加载失败](&#x2F;images&#x2F;屏幕截图 2024-10-13 105859.png)</p><h5 id="1-3拿到对象后能做什么"><a href="#1-3拿到对象后能做什么" class="headerlink" title="1.3拿到对象后能做什么?"></a>1.3拿到对象后能做什么?</h5><p>![](C:\Users\86133\Desktop\Hexo-Blog\source\images\屏幕截图 2024-10-13 105922.png)</p><blockquote><p>[!NOTE]</p><p>1.类名的首字母建议大写,英文,满足驼峰命名,不能用关键字做类名;</p><p>2.一个代码文件中可以定义多个类,但是只能一个类是public修饰的;</p><p>3.public修饰的类名必须是java代码的文件名称;</p></blockquote><h2 id="2-封装"><a href="#2-封装" class="headerlink" title="2.封装"></a>2.封装</h2><p>对象代表什么,就得封装对应的数据,并提供数据对应的行为;</p><p>封装告诉了我们如何正确设计对象的属性和方法;</p>]]></content>
     
     
       
