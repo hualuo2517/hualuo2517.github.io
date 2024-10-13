@@ -6,7 +6,7 @@
   <link href="http://hualuo2517.github.io/atom.xml" rel="self"/>
   
   <link href="http://hualuo2517.github.io/"/>
-  <updated>2024-10-13T05:44:20.400Z</updated>
+  <updated>2024-10-13T06:20:15.660Z</updated>
   <id>http://hualuo2517.github.io/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="http://hualuo2517.github.io/2024/10/13/1/"/>
     <id>http://hualuo2517.github.io/2024/10/13/1/</id>
     <published>2024-10-13T05:14:39.000Z</published>
-    <updated>2024-10-13T05:44:20.400Z</updated>
+    <updated>2024-10-13T06:20:15.660Z</updated>
     
-    <content type="html"><![CDATA[<p>#hello world</p><p><img src="C:\Users\86133\Desktop\Hexo-Blog\source_posts\1/12345.png"></p><p>123</p><p><img src="/1/123.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p>#hello world</p><p><img src="/1/123.png"></p><p>123</p><p><img src="/1%5C12345.png"></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;#hello world&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;C:&#92;Users&#92;86133&#92;Desktop&#92;Hexo-Blog&#92;source_posts&#92;1/12345.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/1/123.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;123&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/1/123.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/1%5C12345.png&quot;&gt;&lt;/p&gt;
 </summary>
       
     
