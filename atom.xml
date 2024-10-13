@@ -6,7 +6,7 @@
   <link href="http://hualuo2517.github.io/atom.xml" rel="self"/>
   
   <link href="http://hualuo2517.github.io/"/>
-  <updated>2024-10-13T04:09:41.427Z</updated>
+  <updated>2024-10-13T04:46:10.637Z</updated>
   <id>http://hualuo2517.github.io/</id>
   
   <author>
@@ -17,44 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>对象基础</title>
+    <title>面向对象基础复习</title>
     <link href="http://hualuo2517.github.io/2024/10/13/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/"/>
     <id>http://hualuo2517.github.io/2024/10/13/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</id>
     <published>2024-10-13T03:55:39.000Z</published>
-    <updated>2024-10-13T04:09:41.427Z</updated>
+    <updated>2024-10-13T04:46:10.637Z</updated>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-设计对象并使用"><a href="#1-设计对象并使用" class="headerlink" title="1.设计对象并使用"></a>1.设计对象并使用</h2><h5 id="1-1类和对象是什么"><a href="#1-1类和对象是什么" class="headerlink" title="1.1类和对象是什么?"></a>1.1类和对象是什么?</h5><p>类:是共同特征的描述;</p><p>对象:是真实存在的实例;</p><h5 id="1-2如何得到对象"><a href="#1-2如何得到对象" class="headerlink" title="1.2如何得到对象?"></a>1.2如何得到对象?</h5><p>![](C:\Users\86133\Pictures\Screenshots\屏幕截图 2024-10-13 105859.png)</p><h5 id="1-3拿到对象后能做什么"><a href="#1-3拿到对象后能做什么" class="headerlink" title="1.3拿到对象后能做什么?"></a>1.3拿到对象后能做什么?</h5><p>![](C:\Users\86133\Pictures\Screenshots\屏幕截图 2024-10-13 105922.png)</p><blockquote><p>[!NOTE]</p><p>1.类名的首字母建议大写,英文,满足驼峰命名,不能用关键字做类名;</p><p>2.一个代码文件中可以定义多个类,但是只能一个类是public修饰的;</p><p>3.public修饰的类名必须是java代码的文件名称;</p></blockquote><h2 id="2-封装"><a href="#2-封装" class="headerlink" title="2.封装"></a>2.封装</h2><p>对象代表什么,就得封装对应的数据,并提供数据对应的行为;</p><p>封装告诉了我们如何正确设计对象的属性和方法;</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;1-设计对象并使用&quot;&gt;&lt;a href=&quot;#1-设计对象并使用&quot; class=&quot;headerlink&quot; title=&quot;1.设计对象并使用&quot;&gt;&lt;/a&gt;1.设计对象并使用&lt;/h2&gt;&lt;h5 id=&quot;1-1类和对象是什么&quot;&gt;&lt;a href=&quot;#1-1类和对象是什么&quot; cla</summary>
       
     
     
     
     
     <category term="打卡第一天" scheme="http://hualuo2517.github.io/tags/%E6%89%93%E5%8D%A1%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>算法基础</title>
-    <link href="http://hualuo2517.github.io/2024/10/13/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/"/>
-    <id>http://hualuo2517.github.io/2024/10/13/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</id>
-    <published>2024-10-13T03:51:06.000Z</published>
-    <updated>2024-10-13T03:53:26.897Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br></pre></td><td class="code"><pre><span class="line">package com.itheima.mycollection;</span><br><span class="line"></span><br><span class="line">import java.util.ArrayList;</span><br><span class="line">import java.util.Collection;</span><br><span class="line"></span><br><span class="line">public class MyCollection &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        //collection是一个接口,我们不能直接创建他的对象,只能创建他的实现类</span><br><span class="line">        Collection&lt;String&gt; coll = new ArrayList&lt;String&gt;();</span><br><span class="line">        //1.添加元素,如果在list系列集合中添加元素,方法永远返回true,</span><br><span class="line">        //List可以重复元素,而set系列需要确保添加的元素不存在</span><br><span class="line">        coll.add(&quot;aaa&quot;);</span><br><span class="line">        System.out.println(coll);</span><br><span class="line"></span><br><span class="line">        //2.清空</span><br><span class="line">//        coll.clear();</span><br><span class="line">//        System.out.println(coll);</span><br><span class="line"></span><br><span class="line">        //3.删除</span><br><span class="line">        //如果删除的元素不存在,则删除失败</span><br><span class="line">//        System.out.println(coll.remove(&quot;aaa&quot;));</span><br><span class="line">//        System.out.println(coll.remove(&quot;bbb&quot;));</span><br><span class="line">//        System.out.println(coll);</span><br><span class="line"></span><br><span class="line">        //判断元素是否包含</span><br><span class="line">//        boolean result = coll.contains(&quot;aaa&quot;);</span><br><span class="line">//        boolean result2 = coll.contains(&quot;bbb&quot;);</span><br><span class="line">//        System.out.println(result);</span><br><span class="line">//        System.out.println(result2);</span><br><span class="line"></span><br><span class="line">        //判断集合是否为空</span><br><span class="line">//        boolean result = coll.isEmpty();</span><br><span class="line">//        System.out.println(result);</span><br><span class="line"></span><br><span class="line">        //判断集合的长度</span><br><span class="line">        coll.add(&quot;bbb&quot;);</span><br><span class="line">        int size = coll.size();</span><br><span class="line">        System.out.println(size);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span c</summary>
-      
-    
-    
-    
     
   </entry>
   
